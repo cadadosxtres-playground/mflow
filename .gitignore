@@ -1,0 +1,21 @@
+### Ignoring vscode and python venv directories
+
+.vscode
+.venv
+
+### Ignoring local mlflow directories
+
+mlartifacts
+.metrics
+mlruns
+.envs
+
+
+### Ignoring kserve installation directory
+
+istio*/
+
+### Ignoreing any model from local_models
+
+local_models/*_model
+local_models/*-model

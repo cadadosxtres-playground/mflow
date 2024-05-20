@@ -1,0 +1,19 @@
+{
+    "inputs": [
+      {
+        "name": "input",
+        "datatype": "FP32",
+        "shape": [8],
+        "data": [{"tobacco": 12,
+            "ldl": 5.73,
+            "adiposity": 23.11,
+            "famhist" : 1,
+            "typea" : 49,
+            "obesity" :  25.3,
+            "alcohol" : 97.2,
+            "age" : 52 }]
+      }
+    ]
+}
+
+
